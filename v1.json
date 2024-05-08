@@ -5,7 +5,7 @@
     "version": "v1"
   },
   "paths": {
-    "/api/activity/projects.create": {
+    "/api/v1/activity/projects.create": {
       "post": {
         "tags": [
           "Activity"
@@ -28,7 +28,7 @@
         }
       }
     },
-    "/api/activity/projects.delete": {
+    "/api/v1/activity/projects.delete": {
       "post": {
         "tags": [
           "Activity"
@@ -51,7 +51,7 @@
         }
       }
     },
-    "/api/activity/projects.edit": {
+    "/api/v1/activity/projects.edit": {
       "post": {
         "tags": [
           "Activity"
@@ -74,7 +74,7 @@
         }
       }
     },
-    "/api/balances/counter.create": {
+    "/api/v1/balances/counter.create": {
       "post": {
         "tags": [
           "Balances"
@@ -109,7 +109,7 @@
         }
       }
     },
-    "/api/balances/counter.delete": {
+    "/api/v1/balances/counter.delete": {
       "post": {
         "tags": [
           "Balances"
@@ -132,7 +132,7 @@
         }
       }
     },
-    "/api/balances/counters.list": {
+    "/api/v1/balances/counters.list": {
       "get": {
         "tags": [
           "Balances"
@@ -164,7 +164,7 @@
         }
       }
     },
-    "/api/balances/counter-values.report": {
+    "/api/v1/balances/counter-values.report": {
       "get": {
         "tags": [
           "Balances"
@@ -193,7 +193,7 @@
         }
       }
     },
-    "/api/balances/counter-variables.list": {
+    "/api/v1/balances/counter-variables.list": {
       "get": {
         "tags": [
           "Balances"
@@ -225,7 +225,7 @@
         }
       }
     },
-    "/api/directory/resources.delete": {
+    "/api/v1/directory/resources.delete": {
       "post": {
         "tags": [
           "Directory"
@@ -252,7 +252,7 @@
         }
       }
     },
-    "/api/directory/roles.list": {
+    "/api/v1/directory/roles.list": {
       "get": {
         "tags": [
           "Directory"
@@ -290,7 +290,7 @@
         }
       }
     },
-    "/api/directory/teams.list": {
+    "/api/v1/directory/teams.list": {
       "get": {
         "tags": [
           "Directory"
@@ -322,7 +322,7 @@
         }
       }
     },
-    "/api/directory/resource.show-picture": {
+    "/api/v1/directory/resource.show-picture": {
       "get": {
         "tags": [
           "Directory"
@@ -346,7 +346,7 @@
         }
       }
     },
-    "/api/directory/tags.list": {
+    "/api/v1/directory/tags.list": {
       "get": {
         "tags": [
           "Directory"
@@ -378,7 +378,7 @@
         }
       }
     },
-    "/api/expenses/expenses.create": {
+    "/api/v1/expenses/expenses.create": {
       "post": {
         "tags": [
           "Expenses"
@@ -413,7 +413,7 @@
         }
       }
     },
-    "/api/expenses/expenses.update": {
+    "/api/v1/expenses/expenses.update": {
       "post": {
         "tags": [
           "Expenses"
@@ -435,7 +435,7 @@
         }
       }
     },
-    "/api/expenses/expenses.delete": {
+    "/api/v1/expenses/expenses.delete": {
       "post": {
         "tags": [
           "Expenses"
@@ -457,7 +457,7 @@
         }
       }
     },
-    "/api/expenses/expenses.list": {
+    "/api/v1/expenses/expenses.list": {
       "get": {
         "tags": [
           "Expenses"
@@ -489,7 +489,7 @@
         }
       }
     },
-    "/api/expenses/expenses.show": {
+    "/api/v1/expenses/expenses.show": {
       "get": {
         "tags": [
           "Expenses"
@@ -518,7 +518,7 @@
         }
       }
     },
-    "/api/instance/logo.show": {
+    "/api/v1/instance/logo.show": {
       "get": {
         "tags": [
           "Instance"
@@ -533,7 +533,7 @@
         }
       }
     },
-    "/api/instance/status.show": {
+    "/api/v1/instance/status.show": {
       "get": {
         "tags": [
           "Instance"
@@ -550,7 +550,7 @@
         }
       }
     },
-    "/api/schedule/configuration.show": {
+    "/api/v1/schedule/configuration.show": {
       "get": {
         "tags": [
           "Schedule"
@@ -579,7 +579,7 @@
         }
       }
     },
-    "/api/security/tokens.revoke": {
+    "/api/v1/security/tokens.revoke": {
       "post": {
         "tags": [
           "Security"
@@ -601,7 +601,7 @@
         }
       }
     },
-    "/api/security/tokens.list": {
+    "/api/v1/security/tokens.list": {
       "get": {
         "tags": [
           "Security"
@@ -633,7 +633,7 @@
         }
       }
     },
-    "/api/security/tokens.show-permissions": {
+    "/api/v1/security/tokens.show-permissions": {
       "get": {
         "tags": [
           "Security"
@@ -662,7 +662,7 @@
         }
       }
     },
-    "/api/security/credentials.change-username": {
+    "/api/v1/security/credentials.change-username": {
       "post": {
         "tags": [
           "Security"
@@ -684,7 +684,7 @@
         }
       }
     },
-    "/api/security/login-link.send-by-email": {
+    "/api/v1/security/login-link.send-by-email": {
       "post": {
         "tags": [
           "Security"
@@ -706,7 +706,7 @@
         }
       }
     },
-    "/api/security/resource-2fa.delete": {
+    "/api/v1/security/resource-2fa.delete": {
       "post": {
         "tags": [
           "Security"
@@ -728,7 +728,7 @@
         }
       }
     },
-    "/api/security/resource-2fa.list": {
+    "/api/v1/security/resource-2fa.list": {
       "get": {
         "tags": [
           "Security"
@@ -760,7 +760,7 @@
         }
       }
     },
-    "/api/timeclock/timecheck.tag": {
+    "/api/v1/timeclock/timecheck.tag": {
       "post": {
         "tags": [
           "Timeclock"
@@ -782,7 +782,7 @@
         }
       }
     },
-    "/api/timeclock/validation.enumerate-teams": {
+    "/api/v1/timeclock/validation.enumerate-teams": {
       "get": {
         "tags": [
           "Timeclock"
@@ -814,7 +814,7 @@
         }
       }
     },
-    "/api/timeclock/validation.enumerate-resources": {
+    "/api/v1/timeclock/validation.enumerate-resources": {
       "get": {
         "tags": [
           "Timeclock"
