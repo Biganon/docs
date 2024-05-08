@@ -25,6 +25,7 @@
   "navigation": [
 	  {
 	    "group": "Activity",
+	    "version": "v1",
 	    "pages": [
 	      "v1/activity/create-a-project",
 	      "v1/activity/delete-a-project",
@@ -33,6 +34,7 @@
 	  },
 	  {
 	    "group": "Balances",
+	    "version": "v1",
 	    "pages": [
 	      "v1/balances/lists-counter-values",
 	      "v1/balances/creates-a-new-counter",
@@ -43,6 +45,7 @@
 	  },
 	  {
 	    "group": "Directory",
+	    "version": "v1",
 	    "pages": [
 	      "v1/directory/deletes-resources",
 	      "v1/directory/lists-roles",
@@ -53,6 +56,7 @@
 	  },
 	  {
 	    "group": "Expenses",
+	    "version": "v1",
 	    "pages": [
 	      "v1/expenses/creates-an-expense",
 	      "v1/expenses/updates-an-expense",
@@ -63,6 +67,7 @@
 	  },
 	  {
 	    "group": "Instance",
+	    "version": "v1",
 	    "pages": [
 	      "v1/instance/shows-the-instance-logo",
 	      "v1/instance/shows-the-instance-status"
@@ -70,12 +75,14 @@
 	  },
 	  {
 	    "group": "Schedule",
+	    "version": "v1",
 	    "pages": [
 	      "v1/schedule/shows-balances-configuration-for-schedule"
 	    ]
 	  },
 	  {
 	    "group": "Security",
+	    "version": "v1",
 	    "pages": [
 	      "v1/security/revoke-a-token",
 	      "v1/security/list-all-user-tokens",
@@ -88,6 +95,7 @@
 	  },
 	  {
 	    "group": "Timeclock",
+	    "version": "v1",
 	    "pages": [
 	      "v1/timeclock/tags-a-timecheck",
 	      "v1/timeclock/enumerates-teams-which-current-user-can-validate",
