@@ -26,72 +26,72 @@
 	  {
 	    "group": "Activity",
 	    "pages": [
-	      "activity/create-a-project",
-	      "activity/delete-a-project",
-	      "activity/edit-a-project"
+	      "v1/activity/create-a-project",
+	      "v1/activity/delete-a-project",
+	      "v1/activity/edit-a-project"
 	    ]
 	  },
 	  {
 	    "group": "Balances",
 	    "pages": [
-	      "balances/lists-counter-values",
-	      "balances/creates-a-new-counter",
-	      "balances/deletes-a-counter",
-	      "balances/lists-counters",
-	      "balances/lists-variables"
+	      "v1/balances/lists-counter-values",
+	      "v1/balances/creates-a-new-counter",
+	      "v1/balances/deletes-a-counter",
+	      "v1/balances/lists-counters",
+	      "v1/balances/lists-variables"
 	    ]
 	  },
 	  {
 	    "group": "Directory",
 	    "pages": [
-	      "directory/deletes-resources",
-	      "directory/lists-roles",
-	      "directory/lists-teams",
-	      "directory/shows-picture-for-a-resource",
-	      "directory/lists-tags"
+	      "v1/directory/deletes-resources",
+	      "v1/directory/lists-roles",
+	      "v1/directory/lists-teams",
+	      "v1/directory/shows-picture-for-a-resource",
+	      "v1/directory/lists-tags"
 	    ]
 	  },
 	  {
 	    "group": "Expenses",
 	    "pages": [
-	      "expenses/creates-an-expense",
-	      "expenses/updates-an-expense",
-	      "expenses/deletes-an-expense",
-	      "expenses/lists-expenses",
-	      "expenses/shows-an-expense"
+	      "v1/expenses/creates-an-expense",
+	      "v1/expenses/updates-an-expense",
+	      "v1/expenses/deletes-an-expense",
+	      "v1/expenses/lists-expenses",
+	      "v1/expenses/shows-an-expense"
 	    ]
 	  },
 	  {
 	    "group": "Instance",
 	    "pages": [
-	      "instance/shows-the-instance-logo",
-	      "instance/shows-the-instance-status"
+	      "v1/instance/shows-the-instance-logo",
+	      "v1/instance/shows-the-instance-status"
 	    ]
 	  },
 	  {
 	    "group": "Schedule",
 	    "pages": [
-	      "schedule/shows-balances-configuration-for-schedule"
+	      "v1/schedule/shows-balances-configuration-for-schedule"
 	    ]
 	  },
 	  {
 	    "group": "Security",
 	    "pages": [
-	      "security/revoke-a-token",
-	      "security/list-all-user-tokens",
-	      "security/token-api-permissions",
-	      "security/changes-resources-username",
-	      "security/sends-a-login-link-by-email",
-	      "security/deletes-a-users-2fa-method",
-	      "security/lists-users-2fa-methods"
+	      "v1/security/revoke-a-token",
+	      "v1/security/list-all-user-tokens",
+	      "v1/security/token-api-permissions",
+	      "v1/security/changes-resources-username",
+	      "v1/security/sends-a-login-link-by-email",
+	      "v1/security/deletes-a-users-2fa-method",
+	      "v1/security/lists-users-2fa-methods"
 	    ]
 	  },
 	  {
 	    "group": "Timeclock",
 	    "pages": [
-	      "timeclock/tags-a-timecheck",
-	      "timeclock/enumerates-teams-which-current-user-can-validate",
-	      "timeclock/enumerates-resources-which-current-user-can-validate"
+	      "v1/timeclock/tags-a-timecheck",
+	      "v1/timeclock/enumerates-teams-which-current-user-can-validate",
+	      "v1/timeclock/enumerates-resources-which-current-user-can-validate"
 	    ]
 	  }
 	],
