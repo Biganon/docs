@@ -1,6 +1,6 @@
 {
   "name": "tipee",
-  "openapi": ["/openapi.json", "/openapi2.json"],
+  "openapi": ["/v1.json", "/v2.json"],
   "versions": ["v2", "v1"],
   "logo": {
     "light": "/logo/light.svg",
@@ -22,18 +22,6 @@
     "name": "Get Started",
     "url": "https://www.tipee.ch"
   },
-	"anchors": [
-	    {
-		"name": "API Reference V1",
-		"url": "v1/api-reference",
-		"version": "v1"
-	    },
-	    {
-		"name": "API Reference V2",
-		"url": "v2/api-reference",
-		"version": "v2"
-	    }
-	],
   "navigation": [
 	  {
 	    "group": "Activity",
