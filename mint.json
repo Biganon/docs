@@ -22,6 +22,16 @@
     "name": "Get Started",
     "url": "https://www.tipee.ch"
   },
+  "tabs": [
+    {
+      "name": "v1",
+      "url": "v1"
+    },
+    {
+      "name": "v2",
+      "url": "v2"
+    }
+  ],
   "navigation": [
 	  {
 	    "group": "Activity",
