@@ -1,11 +1,8 @@
 {
   "openapi": "3.0.0",
-  "x-stoplight": {
-    "id": "t5c2r7bv1tshe"
-  },
   "info": {
     "title": "tipee",
-    "version": "v2"
+    "version": "v1"
   },
   "paths": {
     "/api/activity/projects.create": {
@@ -28,9 +25,6 @@
           "201": {
             "description": "Project created."
           }
-        },
-        "x-stoplight": {
-          "id": "j1y8hbpfb11w2"
         }
       }
     },
@@ -54,9 +48,6 @@
           "204": {
             "description": "Project deleted."
           }
-        },
-        "x-stoplight": {
-          "id": "x1zhdih3n4no3"
         }
       }
     },
@@ -80,9 +71,6 @@
           "204": {
             "description": "Project edited."
           }
-        },
-        "x-stoplight": {
-          "id": "4710n3z9mzzq8"
         }
       }
     },
@@ -118,9 +106,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "6b65py1f3nzbh"
         }
       }
     },
@@ -144,9 +129,6 @@
           "204": {
             "description": "Counter deleted."
           }
-        },
-        "x-stoplight": {
-          "id": "rv17uw936c5kf"
         }
       }
     },
@@ -179,9 +161,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "f1zc7al2bgon3"
         }
       }
     },
@@ -211,9 +190,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "clni62fokcn7k"
         }
       }
     },
@@ -246,9 +222,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "5gp7xan38s9f9"
         }
       }
     },
@@ -276,9 +249,6 @@
           "409": {
             "description": "Resource cannot be deleted because other data refer to it."
           }
-        },
-        "x-stoplight": {
-          "id": "rfkrp2ygl14w3"
         }
       }
     },
@@ -317,9 +287,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "jpl3riauszx82"
         }
       }
     },
@@ -352,9 +319,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "mfg7a4jg0h6zs"
         }
       }
     },
@@ -379,9 +343,6 @@
           "200": {
             "description": "The picture payload (binary data)"
           }
-        },
-        "x-stoplight": {
-          "id": "ujpdlcuqoedoi"
         }
       }
     },
@@ -414,9 +375,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "vlwr39psv9fgv"
         }
       }
     },
@@ -452,9 +410,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "wlvke5nuo5dwq"
         }
       }
     },
@@ -477,9 +432,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "wx8354bfonkbx"
         }
       }
     },
@@ -502,9 +454,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "yjl4iyzh1rn5x"
         }
       }
     },
@@ -537,9 +486,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "mete7r59z2gfq"
         }
       }
     },
@@ -569,9 +515,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "ll5oy1l1qsoo4"
         }
       }
     },
@@ -587,9 +530,6 @@
           "200": {
             "description": "The picture payload (binary data)"
           }
-        },
-        "x-stoplight": {
-          "id": "38gwynk25vn29"
         }
       }
     },
@@ -607,9 +547,6 @@
           "503": {
             "description": "Whenever some healths checks failed."
           }
-        },
-        "x-stoplight": {
-          "id": "menycstwyki9z"
         }
       }
     },
@@ -639,9 +576,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "igpa4xsa6cwc5"
         }
       }
     },
@@ -664,9 +598,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "43vjyp3gobx24"
         }
       }
     },
@@ -699,9 +630,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "rhd7np1nx7ery"
         }
       }
     },
@@ -731,9 +659,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "vlrl04tpqogtm"
         }
       }
     },
@@ -756,9 +681,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "q57gwmtb7in78"
         }
       }
     },
@@ -781,9 +703,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "2nnr46qqceow4"
         }
       }
     },
@@ -806,9 +725,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "miqivqkiuqbvo"
         }
       }
     },
@@ -841,9 +757,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "sohuty9qykl9h"
         }
       }
     },
@@ -866,9 +779,6 @@
           "default": {
             "description": ""
           }
-        },
-        "x-stoplight": {
-          "id": "x4p2ckk7mtaux"
         }
       }
     },
@@ -901,9 +811,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "m30ofbs9pic1p"
         }
       }
     },
@@ -936,9 +843,6 @@
               }
             }
           }
-        },
-        "x-stoplight": {
-          "id": "onq3zdehicrec"
         }
       }
     }
@@ -956,10 +860,7 @@
             "minLength": 1
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rd4c5d65snibb"
-        }
+        "type": "object"
       },
       "DeleteProjectCommand": {
         "required": [
@@ -970,10 +871,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ee93huqc5b4gp"
-        }
+        "type": "object"
       },
       "EditProjectCommand": {
         "required": [
@@ -1007,10 +905,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "yix1zfoj2xvxp"
-        }
+        "type": "object"
       },
       "AssignProjectResourceCommand": {
         "required": [
@@ -1032,10 +927,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "fi3p0ng65yb1z"
-        }
+        "type": "object"
       },
       "AssignProjectTeamCommand": {
         "required": [
@@ -1057,10 +949,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "83u52ikta9x8r"
-        }
+        "type": "object"
       },
       "GrantProjectTeamCommand": {
         "required": [
@@ -1082,10 +971,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "il2ji13i4sr18"
-        }
+        "type": "object"
       },
       "DeleteProjectMemberCommand": {
         "required": [
@@ -1100,10 +986,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ikdh3lvya0ruq"
-        }
+        "type": "object"
       },
       "ChangeProjectStatusCommand": {
         "required": [
@@ -1118,10 +1001,7 @@
             "$ref": "#/components/schemas/ProjectStatus"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2b48zl47ucl1v"
-        }
+        "type": "object"
       },
       "GrantProjectResourceCommand": {
         "required": [
@@ -1143,10 +1023,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "bgdhpkdstz4gz"
-        }
+        "type": "object"
       },
       "CopyProjectCommand": {
         "required": [
@@ -1184,16 +1061,10 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7uca7p86sjlin"
-        }
+        "type": "object"
       },
       "ListProjectsQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "8sy8n6n0h0023"
-        }
+        "type": "object"
       },
       "ProjectView": {
         "properties": {
@@ -1237,10 +1108,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "eb3agclhew6jd"
-        }
+        "type": "object"
       },
       "GetProjectPermissionsQuery": {
         "required": [
@@ -1255,10 +1123,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "sdzn7ac5fko1v"
-        }
+        "type": "object"
       },
       "MemberPermissions": {
         "properties": {
@@ -1269,24 +1134,15 @@
             "$ref": "#/components/schemas/Permissions"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "t5drd0vqtyazb"
-        }
+        "type": "object"
       },
       "EnumerateConsultablePersonsQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "ndxdze83kflzq"
-        }
+        "type": "object"
       },
       "Snowflake": {
         "type": "string",
         "format": "snowflake",
-        "example": "707530824988823944",
-        "x-stoplight": {
-          "id": "decrat8ygz53l"
-        }
+        "example": "707530824988823944"
       },
       "ListConsultableProjectsQuery": {
         "required": [
@@ -1301,10 +1157,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "778omb9tiq5se"
-        }
+        "type": "object"
       },
       "ListProjectResourcesQuery": {
         "required": [
@@ -1322,10 +1175,7 @@
             "$ref": "#/components/schemas/LocalDateInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "t18zbkuebxnp5"
-        }
+        "type": "object"
       },
       "ProjectResourceView": {
         "properties": {
@@ -1342,10 +1192,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "fiueblvad71lt"
-        }
+        "type": "object"
       },
       "DeleteTaskCommand": {
         "required": [
@@ -1356,10 +1203,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2h73r4rwv02ia"
-        }
+        "type": "object"
       },
       "CreateTaskCommand": {
         "required": [
@@ -1389,10 +1233,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "a46ahqc7zjmlg"
-        }
+        "type": "object"
       },
       "EditTaskCommand": {
         "required": [
@@ -1422,10 +1263,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "60cdluhf73igc"
-        }
+        "type": "object"
       },
       "MoveTaskCommand": {
         "required": [
@@ -1441,16 +1279,10 @@
             "minimum": 0
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7hvrv7nn8dtoa"
-        }
+        "type": "object"
       },
       "ListTasksQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "05roxumcrjvko"
-        }
+        "type": "object"
       },
       "TaskView": {
         "properties": {
@@ -1476,10 +1308,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "53g05e5t5fg7o"
-        }
+        "type": "object"
       },
       "CreateActivityCommand": {
         "required": [
@@ -1532,10 +1361,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "d90doc3cbq27d"
-        }
+        "type": "object"
       },
       "UpdateActivityCommand": {
         "required": [
@@ -1587,10 +1413,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "f5rb9eytm2v0b"
-        }
+        "type": "object"
       },
       "DeleteActivityCommand": {
         "required": [
@@ -1601,16 +1424,10 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "l6azyu9nrggif"
-        }
+        "type": "object"
       },
       "ListActivitiesQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "ttnody0k448tc"
-        }
+        "type": "object"
       },
       "ActivityView": {
         "properties": {
@@ -1656,10 +1473,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "gbb47udxjw0nt"
-        }
+        "type": "object"
       },
       "SubmitCommand": {
         "required": [
@@ -1689,10 +1503,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "gmukjcr0v56n0"
-        }
+        "type": "object"
       },
       "SubmitForContributorCommand": {
         "required": [
@@ -1722,10 +1533,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jpi8wbdh3d5n6"
-        }
+        "type": "object"
       },
       "CancelSubmissionCommand": {
         "required": [
@@ -1755,10 +1563,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "6zg5vvea2e533"
-        }
+        "type": "object"
       },
       "SubmitCorrectionCommand": {
         "required": [
@@ -1788,10 +1593,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "i6brtvosiksbg"
-        }
+        "type": "object"
       },
       "ValidateCommand": {
         "required": [
@@ -1821,10 +1623,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ryaxnz9jezl9o"
-        }
+        "type": "object"
       },
       "CancelValidationCommand": {
         "required": [
@@ -1854,10 +1653,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jpxjxbjd4e3uf"
-        }
+        "type": "object"
       },
       "RejectCommand": {
         "required": [
@@ -1887,10 +1683,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "pkoa4a98b3lok"
-        }
+        "type": "object"
       },
       "CancelRejectionCommand": {
         "required": [
@@ -1920,10 +1713,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ajg0rbt8qtvh6"
-        }
+        "type": "object"
       },
       "ListDayTasksQuery": {
         "required": [
@@ -1952,10 +1742,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "0ey88qgrcl1s7"
-        }
+        "type": "object"
       },
       "DayTaskView": {
         "properties": {
@@ -1995,16 +1782,10 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2x4aiintenomw"
-        }
+        "type": "object"
       },
       "ShowWorkflowDefinitionQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "7di9gkssa08sq"
-        }
+        "type": "object"
       },
       "DefinitionView": {
         "properties": {
@@ -2027,10 +1808,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "yogky9d9n4c1r"
-        }
+        "type": "object"
       },
       "ShowGaugesQuery": {
         "required": [
@@ -2049,10 +1827,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ktm8p7lr0icxs"
-        }
+        "type": "object"
       },
       "GaugesView": {
         "properties": {
@@ -2066,10 +1841,7 @@
             "$ref": "#/components/schemas/BalanceGaugeView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ai6titqn0952w"
-        }
+        "type": "object"
       },
       "ShowBalancesQuery": {
         "required": [
@@ -2087,10 +1859,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "pz7es4co5jwuz"
-        }
+        "type": "object"
       },
       "BalancePeriodView": {
         "properties": {
@@ -2148,10 +1917,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "d3s3ulpbhxlc7"
-        }
+        "type": "object"
       },
       "CreateAccumulatorCommand": {
         "required": [
@@ -2179,10 +1945,7 @@
             "minItems": 1
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "i4ja81hrn18er"
-        }
+        "type": "object"
       },
       "UpdateAccumulatorCommand": {
         "required": [
@@ -2209,10 +1972,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7pfbgqolmigeo"
-        }
+        "type": "object"
       },
       "DeleteAccumulatorCommand": {
         "properties": {
@@ -2220,10 +1980,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "732yl5qct4vgq"
-        }
+        "type": "object"
       },
       "AdjustAccumulatorValueCommand": {
         "required": [
@@ -2254,10 +2011,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "z97g5ou88b845"
-        }
+        "type": "object"
       },
       "ReportAdjustmentQuery": {
         "required": [
@@ -2281,10 +2035,7 @@
             "$ref": "#/components/schemas/Period"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zvyknm5zecxxd"
-        }
+        "type": "object"
       },
       "CreateCounterCommand": {
         "required": [
@@ -2339,10 +2090,7 @@
             "$ref": "#/components/schemas/OutputFormat"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xiw7ldyycceq3"
-        }
+        "type": "object"
       },
       "UpdateCounterCommand": {
         "required": [
@@ -2390,10 +2138,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "l06calxnrtgd6"
-        }
+        "type": "object"
       },
       "ReorderCounterCommand": {
         "required": [
@@ -2410,10 +2155,7 @@
             "exclusiveMinimum": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "lovn2rglo4in8"
-        }
+        "type": "object"
       },
       "DeleteCounterCommand": {
         "required": [
@@ -2424,10 +2166,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "u6w0w1ocm9i82"
-        }
+        "type": "object"
       },
       "InspectCounterExpressionQuery": {
         "required": [
@@ -2452,16 +2191,10 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "3kuxfhjac3n1d"
-        }
+        "type": "object"
       },
       "ShowCounterExpressionApiQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "lv8afhzcrgvic"
-        }
+        "type": "object"
       },
       "CounterApiView": {
         "properties": {
@@ -2478,10 +2211,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "f1pu5pcho0dv0"
-        }
+        "type": "object"
       },
       "ValidateCounterExpressionQuery": {
         "properties": {
@@ -2489,10 +2219,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ovzhmycirzeya"
-        }
+        "type": "object"
       },
       "ListCounterQuery": {
         "required": [
@@ -2517,10 +2244,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "j0sqd5ngm204g"
-        }
+        "type": "object"
       },
       "CounterView": {
         "properties": {
@@ -2546,10 +2270,7 @@
             "$ref": "#/components/schemas/OutputFormat"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4wi196q01kz8g"
-        }
+        "type": "object"
       },
       "ReportCounterValuesQuery": {
         "required": [
@@ -2577,10 +2298,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "g5sqmcswrav6n"
-        }
+        "type": "object"
       },
       "CounterValuesView": {
         "properties": {
@@ -2603,10 +2321,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "836n8clyg7qct"
-        }
+        "type": "object"
       },
       "InspectCounterValuesQuery": {
         "required": [
@@ -2628,10 +2343,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "mg3a2qibax6t0"
-        }
+        "type": "object"
       },
       "CreateVariableCommand": {
         "required": [
@@ -2671,10 +2383,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ph37b28nnmgo6"
-        }
+        "type": "object"
       },
       "DeleteVariableCommand": {
         "required": [
@@ -2685,10 +2394,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ov4cv7utg27i1"
-        }
+        "type": "object"
       },
       "UpdateVariableCommand": {
         "required": [
@@ -2721,10 +2427,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xrdnmdkkqi1wx"
-        }
+        "type": "object"
       },
       "ListVariablesQuery": {
         "properties": {
@@ -2744,10 +2447,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8itnpunmm6dvl"
-        }
+        "type": "object"
       },
       "VariableView": {
         "properties": {
@@ -2768,10 +2468,7 @@
             "$ref": "#/components/schemas/ParameterTypes"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "wis2g0wq5k6k2"
-        }
+        "type": "object"
       },
       "DefineVariableValueCommand": {
         "required": [
@@ -2794,10 +2491,7 @@
             "$ref": "#/components/schemas/LocalDateInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "yycqugl84zjpj"
-        }
+        "type": "object"
       },
       "ListVariableValuesQuery": {
         "properties": {
@@ -2832,10 +2526,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "3bnx51cu4rd20"
-        }
+        "type": "object"
       },
       "VariableValueView": {
         "properties": {
@@ -2853,10 +2544,7 @@
             "$ref": "#/components/schemas/LocalDateInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "vqyszchcwnkwv"
-        }
+        "type": "object"
       },
       "ChangeBalanceModeCommand": {
         "required": [
@@ -2874,10 +2562,7 @@
             "$ref": "#/components/schemas/BalanceMode"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rd2qe6ms1h6ew"
-        }
+        "type": "object"
       },
       "ChangeTimecheckModeCommand": {
         "required": [
@@ -2895,10 +2580,7 @@
             "$ref": "#/components/schemas/TimecheckMode"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "u57g84ryhsmjw"
-        }
+        "type": "object"
       },
       "ChangeHolidayDisplayModeCommand": {
         "required": [
@@ -2916,10 +2598,7 @@
             "$ref": "#/components/schemas/HolidayDisplayMode"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "z753i2pkm8geq"
-        }
+        "type": "object"
       },
       "ChangeHolidayDailyDisplayModeCommand": {
         "required": [
@@ -2937,10 +2616,7 @@
             "$ref": "#/components/schemas/HolidayDailyDisplayMode"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "3dqhk1xfmpnaj"
-        }
+        "type": "object"
       },
       "ShowModesQuery": {
         "required": [
@@ -2951,10 +2627,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "vq1mdblwuesxd"
-        }
+        "type": "object"
       },
       "BalancesModesView": {
         "properties": {
@@ -3050,10 +2723,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "r5hpymjnfyv01"
-        }
+        "type": "object"
       },
       "GetExtraHoursReportQuery": {
         "required": [
@@ -3071,10 +2741,7 @@
             "$ref": "#/components/schemas/LocalDateInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "74hiollgm1h31"
-        }
+        "type": "object"
       },
       "ExtraHoursReportView": {
         "properties": {
@@ -3103,16 +2770,10 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "tglwpocixl3m7"
-        }
+        "type": "object"
       },
       "ShowPermissionReportQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "pttjb9r8tc0hv"
-        }
+        "type": "object"
       },
       "PermissionReportView": {
         "properties": {
@@ -3162,10 +2823,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "1t7luxamgf5lk"
-        }
+        "type": "object"
       },
       "CreateWorkRegimeCommand": {
         "required": [
@@ -3191,10 +2849,7 @@
             "exclusiveMinimum": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "583ss8e82oeug"
-        }
+        "type": "object"
       },
       "UpdateWorkRegimeCommand": {
         "required": [
@@ -3215,10 +2870,7 @@
             "format": "float"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "yxdl7a38bsb3q"
-        }
+        "type": "object"
       },
       "DeleteWorkRegimeCommand": {
         "required": [
@@ -3229,10 +2881,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "x4x0hyt3bnrz8"
-        }
+        "type": "object"
       },
       "SetDefaultWorkRegimeCommand": {
         "required": [
@@ -3243,16 +2892,10 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "nry3ubma9uzq4"
-        }
+        "type": "object"
       },
       "ListWorkRegimeQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "6cak8abgfcio7"
-        }
+        "type": "object"
       },
       "WorkRegimeView": {
         "properties": {
@@ -3273,10 +2916,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "tvqeflljqtag4"
-        }
+        "type": "object"
       },
       "GrantResourceCommand": {
         "required": [
@@ -3305,10 +2945,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7ya96uyl4dp4f"
-        }
+        "type": "object"
       },
       "RevokeResourceCommand": {
         "required": [
@@ -3337,10 +2974,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "dkq5y3g0tbcrh"
-        }
+        "type": "object"
       },
       "DeleteResourcesCommand": {
         "properties": {
@@ -3352,10 +2986,7 @@
             "minItems": 1
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jsrx9j8mqdi3a"
-        }
+        "type": "object"
       },
       "UpdateUserPreferencesCommand": {
         "properties": {
@@ -3363,16 +2994,10 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "oaral7ga54drf"
-        }
+        "type": "object"
       },
       "ListRolesQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "xsz0jeod4zdc8"
-        }
+        "type": "object"
       },
       "ListTeamQuery": {
         "properties": {
@@ -3387,10 +3012,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "vazgtcy150e3m"
-        }
+        "type": "object"
       },
       "TeamView": {
         "properties": {
@@ -3413,10 +3035,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xhzf0kzy626i2"
-        }
+        "type": "object"
       },
       "ListResourcesRolesQuery": {
         "properties": {
@@ -3433,10 +3052,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2o380oi02h072"
-        }
+        "type": "object"
       },
       "ResourceRoleView": {
         "properties": {
@@ -3450,10 +3066,7 @@
             "$ref": "#/components/schemas/TeamList"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "g3rnfvbra8zvu"
-        }
+        "type": "object"
       },
       "EnumerateResourcesQuery": {
         "properties": {
@@ -3485,10 +3098,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "bjs4929fxkxkw"
-        }
+        "type": "object"
       },
       "EnumerateResourceTeamsQuery": {
         "required": [
@@ -3514,10 +3124,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "mbhpeqjj4para"
-        }
+        "type": "object"
       },
       "ResourceTeamsView": {
         "properties": {
@@ -3528,10 +3135,7 @@
             "$ref": "#/components/schemas/TeamList"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xq7ob09vuvz4z"
-        }
+        "type": "object"
       },
       "ShowResourcesSummaryQuery": {
         "required": [
@@ -3545,10 +3149,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8d4w9zmnmkpiq"
-        }
+        "type": "object"
       },
       "ResourceSummaryView": {
         "properties": {
@@ -3562,10 +3163,7 @@
             "$ref": "#/components/schemas/ResourcePictureView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "u8pv4ey8zmrer"
-        }
+        "type": "object"
       },
       "ShowResourcesProfileQuery": {
         "required": [
@@ -3576,10 +3174,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "sycsw3lmtn2fw"
-        }
+        "type": "object"
       },
       "ResourceProfileView": {
         "properties": {
@@ -3635,10 +3230,7 @@
             "$ref": "#/components/schemas/ResourceProfileQuickAccessView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "hqjiv0g7ropsn"
-        }
+        "type": "object"
       },
       "ShowResourcesPermissionsQuery": {
         "required": [
@@ -3649,10 +3241,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "akvcn3iyjxho8"
-        }
+        "type": "object"
       },
       "ResourcePermissionsView": {
         "properties": {
@@ -3672,10 +3261,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zc3ifqd6982xx"
-        }
+        "type": "object"
       },
       "ShowResourcePictureQuery": {
         "required": [
@@ -3686,16 +3272,10 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "r8z122rz2fweh"
-        }
+        "type": "object"
       },
       "ListTagsQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "2fb05phkgdzdy"
-        }
+        "type": "object"
       },
       "TagView": {
         "properties": {
@@ -3714,16 +3294,10 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "f3jyr1c4cmpoa"
-        }
+        "type": "object"
       },
       "ShowUserPreferencesQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "jnc0880z0fydx"
-        }
+        "type": "object"
       },
       "UserPreferencesView": {
         "properties": {
@@ -3731,10 +3305,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "eyn1ysxj3xxqv"
-        }
+        "type": "object"
       },
       "CreateExpenseCommand": {
         "required": [
@@ -3791,10 +3362,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7crgwyxkldqie"
-        }
+        "type": "object"
       },
       "UpdateExpenseCommand": {
         "required": [
@@ -3843,10 +3411,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "6hsasv9fuhkye"
-        }
+        "type": "object"
       },
       "DeleteExpenseCommand": {
         "required": [
@@ -3857,10 +3422,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zvfsqd59vb9ax"
-        }
+        "type": "object"
       },
       "CreateExpenseAttachmentCommand": {
         "required": [
@@ -3878,10 +3440,7 @@
             "$ref": "#/components/schemas/FileBlob"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ltzh6gi4fw88s"
-        }
+        "type": "object"
       },
       "DeleteExpenseAttachmentCommand": {
         "required": [
@@ -3896,10 +3455,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "f82cz73v399t5"
-        }
+        "type": "object"
       },
       "ListExpensesQuery": {
         "properties": {
@@ -3918,10 +3474,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "820mznh8bghxd"
-        }
+        "type": "object"
       },
       "ExpenseView": {
         "properties": {
@@ -3987,10 +3540,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8c073mtsuwesu"
-        }
+        "type": "object"
       },
       "GetExpenseQuery": {
         "required": [
@@ -4001,10 +3551,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "wchiubg1m5mcg"
-        }
+        "type": "object"
       },
       "GetExpenseAttachmentQuery": {
         "required": [
@@ -4023,10 +3570,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2ah2w18o3z6uv"
-        }
+        "type": "object"
       },
       "CreateExpenseReportCommand": {
         "required": [
@@ -4041,10 +3585,7 @@
             "maxLength": 200
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "qvvhrlp3oj6jt"
-        }
+        "type": "object"
       },
       "SendExpenseReportCommand": {
         "required": [
@@ -4064,10 +3605,7 @@
             "maxLength": 250
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "w8v1j9d4efjzj"
-        }
+        "type": "object"
       },
       "ApproveExpenseReportCommand": {
         "required": [
@@ -4083,10 +3621,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ph2lm5l2yr9vo"
-        }
+        "type": "object"
       },
       "ForwardExpenseReportCommand": {
         "required": [
@@ -4106,10 +3641,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rxrq9u6uau9cl"
-        }
+        "type": "object"
       },
       "RefuseExpenseReportCommand": {
         "required": [
@@ -4125,10 +3657,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "sdcsms4u92ii0"
-        }
+        "type": "object"
       },
       "ChangeExpenseReportLabelCommand": {
         "required": [
@@ -4144,10 +3673,7 @@
             "maxLength": 200
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "nxljj74hrsniy"
-        }
+        "type": "object"
       },
       "DeleteExpenseReportCommand": {
         "required": [
@@ -4158,10 +3684,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "dtwmh2xwnmr0d"
-        }
+        "type": "object"
       },
       "MarkAsExportedExpenseReportCommand": {
         "required": [
@@ -4179,10 +3702,7 @@
             "$ref": "#/components/schemas/LocalDate"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "bn57yj8co1kny"
-        }
+        "type": "object"
       },
       "GetExpenseReportQuery": {
         "required": [
@@ -4193,10 +3713,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8mgl35e5nhhxd"
-        }
+        "type": "object"
       },
       "ExpenseReportView": {
         "properties": {
@@ -4243,10 +3760,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "y7kip7yb0phb7"
-        }
+        "type": "object"
       },
       "ListExpenseReportsQuery": {
         "properties": {
@@ -4281,10 +3795,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "42pxpb39aqfwx"
-        }
+        "type": "object"
       },
       "ExportExpenseReportQuery": {
         "required": [
@@ -4306,10 +3817,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "l5972ysn10v3r"
-        }
+        "type": "object"
       },
       "GetExpenseReportValidatorsListQuery": {
         "required": [
@@ -4320,10 +3828,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "r8xtchsszrt46"
-        }
+        "type": "object"
       },
       "ExpenseReportValidatorView": {
         "properties": {
@@ -4339,16 +3844,10 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "wj5gamvkhegdz"
-        }
+        "type": "object"
       },
       "GetExpenseReportToValidateNumberQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "c5arzc9u4839u"
-        }
+        "type": "object"
       },
       "ExportEnumerateExpenseReportQuery": {
         "properties": {
@@ -4372,10 +3871,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jd3uey8qamdei"
-        }
+        "type": "object"
       },
       "CreateExpenseTypeCommand": {
         "required": [
@@ -4415,10 +3911,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "48yiviszago4c"
-        }
+        "type": "object"
       },
       "EditExpenseTypeCommand": {
         "required": [
@@ -4459,10 +3952,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "obveahutovn0a"
-        }
+        "type": "object"
       },
       "ListExpenseTypesQuery": {
         "properties": {
@@ -4478,10 +3968,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rd2py5habwuc4"
-        }
+        "type": "object"
       },
       "ExpenseTypeView": {
         "properties": {
@@ -4511,10 +3998,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "5roz00raqao3g"
-        }
+        "type": "object"
       },
       "EnumerateRecentTagsQuery": {
         "properties": {
@@ -4532,16 +4016,10 @@
             "exclusiveMinimum": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "b32ge0ujcd961"
-        }
+        "type": "object"
       },
       "BootstrapFrontendQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "vi616svotxvc9"
-        }
+        "type": "object"
       },
       "BootstrapData": {
         "properties": {
@@ -4598,22 +4076,13 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "108swgt27tv02"
-        }
+        "type": "object"
       },
       "ShowFeatureFlagsQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "xcwpnh982stwc"
-        }
+        "type": "object"
       },
       "ShowSidebarQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "f6aghpfubwmvl"
-        }
+        "type": "object"
       },
       "SidebarView": {
         "properties": {
@@ -4625,16 +4094,10 @@
             "$ref": "#/components/schemas/SidebarModulesView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "k78deazhzqpvm"
-        }
+        "type": "object"
       },
       "ShowTopbarQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "7730dggm3yos9"
-        }
+        "type": "object"
       },
       "TopbarView": {
         "properties": {
@@ -4663,16 +4126,10 @@
             "$ref": "#/components/schemas/ActiveUserMenuView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "e4ugb89jntskc"
-        }
+        "type": "object"
       },
       "ShowMetadataQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "uw7y9i6gfjb81"
-        }
+        "type": "object"
       },
       "MetadataView": {
         "properties": {
@@ -4687,10 +4144,7 @@
             "additionalProperties": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "vt280jg9ye95w"
-        }
+        "type": "object"
       },
       "ShowScheduleConfigurationQuery": {
         "required": [
@@ -4701,10 +4155,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "og9s78fh1zj5t"
-        }
+        "type": "object"
       },
       "ScheduleConfigurationView": {
         "properties": {
@@ -4715,10 +4166,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8wor55lakcx99"
-        }
+        "type": "object"
       },
       "RevokeTokenCommand": {
         "properties": {
@@ -4731,10 +4179,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ojesx401mycjk"
-        }
+        "type": "object"
       },
       "GenerateAuthorizationQuery": {
         "required": [
@@ -4761,10 +4206,7 @@
             "$ref": "#/components/schemas/ApiTokenProfile"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "d764cpi5xs0ij"
-        }
+        "type": "object"
       },
       "CreateTokenQuery": {
         "required": [
@@ -4796,10 +4238,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "qerhq7m2mho0c"
-        }
+        "type": "object"
       },
       "CreateTokenView": {
         "properties": {
@@ -4810,10 +4249,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "k131agskpn2zd"
-        }
+        "type": "object"
       },
       "ListTokensQuery": {
         "required": [
@@ -4824,10 +4260,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "yu6dji7ozo8ka"
-        }
+        "type": "object"
       },
       "ApiTokenView": {
         "properties": {
@@ -4860,10 +4293,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "lndx1lx4l8brb"
-        }
+        "type": "object"
       },
       "TokenPermissionsQuery": {
         "required": [
@@ -4874,10 +4304,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7057ejc0lj0o8"
-        }
+        "type": "object"
       },
       "TokenPermissionsView": {
         "properties": {
@@ -4891,10 +4318,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "oler658db8kxh"
-        }
+        "type": "object"
       },
       "ChangeCredentialsUsernameCommand": {
         "required": [
@@ -4910,10 +4334,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "je814yulxi2rd"
-        }
+        "type": "object"
       },
       "SetCredentialsMustChangePasswordCommand": {
         "required": [
@@ -4928,10 +4349,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "15yz2150sz6s6"
-        }
+        "type": "object"
       },
       "ShowCredentialsSummaryQuery": {
         "required": [
@@ -4942,10 +4360,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xhsxnujktfiaq"
-        }
+        "type": "object"
       },
       "CredentialsSummaryView": {
         "properties": {
@@ -4991,10 +4406,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4kz1bkw0j4usc"
-        }
+        "type": "object"
       },
       "SendLoginLinkByEmailCommand": {
         "required": [
@@ -5005,10 +4417,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "sugy50bfhgawe"
-        }
+        "type": "object"
       },
       "DeleteResourceTwoFactorCommand": {
         "required": [
@@ -5019,10 +4428,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "srs1ueygg95dd"
-        }
+        "type": "object"
       },
       "ListResourceTwoFactorQuery": {
         "required": [
@@ -5036,10 +4442,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "es2p45d1kjt7a"
-        }
+        "type": "object"
       },
       "ResourceTwoFactorView": {
         "properties": {
@@ -5072,10 +4475,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "phl0cu3iai8wn"
-        }
+        "type": "object"
       },
       "GenerateSnowflakeQuery": {
         "required": [
@@ -5088,10 +4488,7 @@
             "minimum": 1
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jvlqdr32lzv1g"
-        }
+        "type": "object"
       },
       "TagTimecheckCommand": {
         "required": [
@@ -5114,10 +4511,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "gs3f0cxu4ypr3"
-        }
+        "type": "object"
       },
       "ProposeTimecheckCommand": {
         "required": [
@@ -5157,10 +4551,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "0u6kn9hmyxm2b"
-        }
+        "type": "object"
       },
       "UpdateTimecheckProposalCommand": {
         "required": [
@@ -5192,10 +4583,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "0duef65rv908b"
-        }
+        "type": "object"
       },
       "DeleteTimecheckCommand": {
         "required": [
@@ -5206,10 +4594,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2mr9ox3c6mt2f"
-        }
+        "type": "object"
       },
       "ChangeTimecheckTimerangeCommand": {
         "required": [
@@ -5236,10 +4621,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4d2y3ohrxlnql"
-        }
+        "type": "object"
       },
       "ClockTimecheckCommand": {
         "properties": {
@@ -5271,10 +4653,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "la641rsi170le"
-        }
+        "type": "object"
       },
       "RegisterBeaconCommand": {
         "required": [
@@ -5291,10 +4670,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zfxah2g0h982n"
-        }
+        "type": "object"
       },
       "UpdateBeaconCommand": {
         "required": [
@@ -5311,10 +4687,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "kooeckfz1bdux"
-        }
+        "type": "object"
       },
       "DeleteBeaconCommand": {
         "required": [
@@ -5326,10 +4699,7 @@
             "maxLength": 255
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "j7qcx66uk6p8z"
-        }
+        "type": "object"
       },
       "GetTimecheckMatchQuery": {
         "required": [
@@ -5344,10 +4714,7 @@
             "$ref": "#/components/schemas/LocalDateTime"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "x2i88b2wcolvo"
-        }
+        "type": "object"
       },
       "TimecheckMatch": {
         "properties": {
@@ -5366,16 +4733,10 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "hkneive73crbv"
-        }
+        "type": "object"
       },
       "ListTimechecksQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "cqlmhknyk454x"
-        }
+        "type": "object"
       },
       "TimecheckView": {
         "properties": {
@@ -5438,10 +4799,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "565laolpakqaw"
-        }
+        "type": "object"
       },
       "ShowTimecheckQuery": {
         "required": [
@@ -5452,10 +4810,7 @@
             "$ref": "#/components/schemas/Snowflake"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "hm388onqmy85v"
-        }
+        "type": "object"
       },
       "EnumerateSuggestedTagsQuery": {
         "required": [
@@ -5472,10 +4827,7 @@
             "exclusiveMinimum": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "3m4z6l10eeykx"
-        }
+        "type": "object"
       },
       "ShowWorkdaysQuery": {
         "required": [
@@ -5494,10 +4846,7 @@
             "minItems": 1
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "cl0lm5nncslgx"
-        }
+        "type": "object"
       },
       "WorkdayView": {
         "properties": {
@@ -5541,16 +4890,10 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zrhgvws6hpo10"
-        }
+        "type": "object"
       },
       "ListBeaconQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "ef3znp9n6bytm"
-        }
+        "type": "object"
       },
       "BeaconView": {
         "properties": {
@@ -5582,16 +4925,10 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "fbq9kkujjygm7"
-        }
+        "type": "object"
       },
       "ShowResourceStatusQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "dvwi3tmyleyjd"
-        }
+        "type": "object"
       },
       "ResourceStatusView": {
         "properties": {
@@ -5625,10 +4962,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "fvv1qv18ca6aj"
-        }
+        "type": "object"
       },
       "CheckMobileTimeclockVersionQuery": {
         "required": [
@@ -5649,10 +4983,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "wr86w5aeaq03k"
-        }
+        "type": "object"
       },
       "ChangeMobileTimeclockVersionView": {
         "properties": {
@@ -5672,16 +5003,10 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ydmhfuv45w9x0"
-        }
+        "type": "object"
       },
       "EnumerateAuthorizedTeamsForValidationQuery": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "8gc7bvskogymu"
-        }
+        "type": "object"
       },
       "EnumerateAuthorizedResourcesForValidationQuery": {
         "properties": {
@@ -5701,10 +5026,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "pqyapfg42vsus"
-        }
+        "type": "object"
       },
       "ParameterType": {
         "type": "string",
@@ -5717,10 +5039,7 @@
           "Tag",
           "Team"
         ],
-        "example": "Resource",
-        "x-stoplight": {
-          "id": "2lbw96u06u27o"
-        }
+        "example": "Resource"
       },
       "ValidateCounterExpressionView": {
         "properties": {
@@ -5732,10 +5051,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "c7ksme4961s53"
-        }
+        "type": "object"
       },
       "RoleView": {
         "properties": {
@@ -5750,18 +5066,12 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "85hj7rxb5nkus"
-        }
+        "type": "object"
       },
       "LocalDateInterval": {
         "type": "string",
         "format": "local-date-interval",
-        "example": "2019-11-11/2019-12-12",
-        "x-stoplight": {
-          "id": "cfwihw75mvn1c"
-        }
+        "example": "2019-11-11/2019-12-12"
       },
       "ProjectAccessRights": {
         "type": "string",
@@ -5771,10 +5081,7 @@
           "contribute",
           "consult"
         ],
-        "example": "manage",
-        "x-stoplight": {
-          "id": "ke7kuuc8kxyzv"
-        }
+        "example": "manage"
       },
       "ProjectStatus": {
         "type": "string",
@@ -5784,10 +5091,7 @@
           "locked",
           "archived"
         ],
-        "example": "draft",
-        "x-stoplight": {
-          "id": "xrv74sho9ixhq"
-        }
+        "example": "draft"
       },
       "MemberView": {
         "properties": {
@@ -5804,10 +5108,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ghpe3ris94cwh"
-        }
+        "type": "object"
       },
       "Permissions": {
         "properties": {
@@ -5821,10 +5122,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "uhs6uj5q0jq8j"
-        }
+        "type": "object"
       },
       "ActivityType": {
         "type": "string",
@@ -5832,34 +5130,22 @@
           "duration",
           "range"
         ],
-        "example": "duration",
-        "x-stoplight": {
-          "id": "ct3li4qt8ae2c"
-        }
+        "example": "duration"
       },
       "LocalDate": {
         "type": "string",
         "format": "local-date",
-        "example": "2019-11-11",
-        "x-stoplight": {
-          "id": "e4xwcj0mlphab"
-        }
+        "example": "2019-11-11"
       },
       "Duration": {
         "type": "string",
         "format": "duration",
-        "example": "PT1H30M20S",
-        "x-stoplight": {
-          "id": "vz3t0zc2uouzq"
-        }
+        "example": "PT1H30M20S"
       },
       "LocalDateTime": {
         "type": "string",
         "format": "local-date-time",
-        "example": "2019-11-11T12:34:56",
-        "x-stoplight": {
-          "id": "g7kvofj0vyeir"
-        }
+        "example": "2019-11-11T12:34:56"
       },
       "DayTaskStatus": {
         "type": "string",
@@ -5869,18 +5155,12 @@
           "validated",
           "rejected"
         ],
-        "example": "editing",
-        "x-stoplight": {
-          "id": "a437964hkwei4"
-        }
+        "example": "editing"
       },
       "Instant": {
         "type": "string",
         "format": "zoned-date-time",
-        "example": "2024-05-06T09:54:53.528618Z",
-        "x-stoplight": {
-          "id": "57ndf4t96c0nz"
-        }
+        "example": "2024-05-06T09:54:53.528618Z"
       },
       "DayTaskTransition": {
         "type": "string",
@@ -5894,10 +5174,7 @@
           "reject",
           "cancelRejection"
         ],
-        "example": "submit",
-        "x-stoplight": {
-          "id": "uhol8pual7ro2"
-        }
+        "example": "submit"
       },
       "TransitionView": {
         "properties": {
@@ -5917,10 +5194,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "52vjmtizzb0yu"
-        }
+        "type": "object"
       },
       "GaugesMetadataView": {
         "properties": {
@@ -5939,10 +5213,7 @@
             "$ref": "#/components/schemas/LocalDateInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "df7attsnntwr4"
-        }
+        "type": "object"
       },
       "BalanceGaugeView": {
         "properties": {
@@ -5968,10 +5239,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4lfqtszm7og82"
-        }
+        "type": "object"
       },
       "ShowBalancesQueryPeriod": {
         "required": [
@@ -5994,10 +5262,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "2g8h15ukc2ocu"
-        }
+        "type": "object"
       },
       "AccumulatorCounterDto": {
         "properties": {
@@ -6008,10 +5273,7 @@
             "$ref": "#/components/schemas/Operation"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "t9x3ig58t9ev9"
-        }
+        "type": "object"
       },
       "UntypedScope": {
         "type": "array",
@@ -6019,18 +5281,12 @@
           "type": "string",
           "format": "counter.scope",
           "example": "707530825314806233"
-        },
-        "x-stoplight": {
-          "id": "l9xmvoz33c8dl"
         }
       },
       "Period": {
         "type": "string",
         "format": "period",
-        "example": "P1Y2M3D",
-        "x-stoplight": {
-          "id": "sihgbk5rmk1se"
-        }
+        "example": "P1Y2M3D"
       },
       "Parameters": {
         "type": "array",
@@ -6038,9 +5294,6 @@
           "type": "string",
           "format": "counter.parameter",
           "example": "resource:Resource"
-        },
-        "x-stoplight": {
-          "id": "metsv4abme39b"
         }
       },
       "OutputFormat": {
@@ -6049,10 +5302,7 @@
           "hours",
           "units"
         ],
-        "example": "hours",
-        "x-stoplight": {
-          "id": "xw02vszk05tuh"
-        }
+        "example": "hours"
       },
       "CounterApiCategoryView": {
         "properties": {
@@ -6060,10 +5310,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rk1w496q9nb1g"
-        }
+        "type": "object"
       },
       "CounterApiFunctionView": {
         "properties": {
@@ -6087,10 +5334,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "9jqwwj9v9c9w3"
-        }
+        "type": "object"
       },
       "ListCountersContext": {
         "type": "string",
@@ -6099,18 +5343,12 @@
           "indemnities",
           "personal-summary"
         ],
-        "example": "counters-report",
-        "x-stoplight": {
-          "id": "utqf0sf5vz8ng"
-        }
+        "example": "counters-report"
       },
       "ParameterTypes": {
         "type": "array",
         "items": {
           "$ref": "#/components/schemas/ParameterType"
-        },
-        "x-stoplight": {
-          "id": "pvhyvztkyv8jz"
         }
       },
       "CounterValueColumn": {
@@ -6148,10 +5386,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "znytjn4ukf4m1"
-        }
+        "type": "object"
       },
       "BalanceMode": {
         "type": "string",
@@ -6159,10 +5394,7 @@
           "contract",
           "scheduled"
         ],
-        "example": "contract",
-        "x-stoplight": {
-          "id": "ejhdfbz3h6nyk"
-        }
+        "example": "contract"
       },
       "TimecheckMode": {
         "type": "string",
@@ -6171,10 +5403,7 @@
           "only",
           "ignore"
         ],
-        "example": "count",
-        "x-stoplight": {
-          "id": "af483qxeou16p"
-        }
+        "example": "count"
       },
       "HolidayDisplayMode": {
         "type": "string",
@@ -6182,10 +5411,7 @@
           "hours",
           "days"
         ],
-        "example": "hours",
-        "x-stoplight": {
-          "id": "33rprqg86kt02"
-        }
+        "example": "hours"
       },
       "HolidayDailyDisplayMode": {
         "type": "string",
@@ -6193,10 +5419,7 @@
           "fullday",
           "prorated"
         ],
-        "example": "fullday",
-        "x-stoplight": {
-          "id": "kwucsiwa81o7j"
-        }
+        "example": "fullday"
       },
       "ExtraHoursReportColumn": {
         "properties": {
@@ -6210,10 +5433,7 @@
             "$ref": "#/components/schemas/ExtraHoursReportCell"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8jr4jxph1f6he"
-        }
+        "type": "object"
       },
       "ExtraHoursReportCell": {
         "properties": {
@@ -6227,10 +5447,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "a021z49mbaeg4"
-        }
+        "type": "object"
       },
       "ExtraHoursReportRow": {
         "properties": {
@@ -6248,10 +5465,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "n2avvhs8g95bp"
-        }
+        "type": "object"
       },
       "TeamList": {
         "oneOf": [
@@ -6272,10 +5486,7 @@
               "707530825336948226"
             ]
           }
-        ],
-        "x-stoplight": {
-          "id": "qg5ko4pb1ret2"
-        }
+        ]
       },
       "ResourcePictureView": {
         "properties": {
@@ -6290,10 +5501,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "0keqwj83s4w90"
-        }
+        "type": "object"
       },
       "ResourceModesView": {
         "properties": {
@@ -6324,10 +5532,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "89zf4ln9gvu4h"
-        }
+        "type": "object"
       },
       "ResourceJobView": {
         "properties": {
@@ -6341,10 +5546,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "m3tgyi9uvkrsm"
-        }
+        "type": "object"
       },
       "ResourceTeamView": {
         "properties": {
@@ -6365,10 +5567,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "dbajv7zc6t0c1"
-        }
+        "type": "object"
       },
       "ResourceProfileQuickAccessView": {
         "properties": {
@@ -6391,18 +5590,12 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "dhhr3qhkdgz56"
-        }
+        "type": "object"
       },
       "FileBlob": {
         "type": "string",
         "format": "binary",
-        "example": "(binary)",
-        "x-stoplight": {
-          "id": "grwfu4p8c26ru"
-        }
+        "example": "(binary)"
       },
       "ExpenseAttachmentView": {
         "properties": {
@@ -6423,10 +5616,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ss1xp6wbrqpsl"
-        }
+        "type": "object"
       },
       "ExpenseReportStatusView": {
         "properties": {
@@ -6438,10 +5628,7 @@
             "format": "date-time"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "t82gg47fxmgar"
-        }
+        "type": "object"
       },
       "ExpenseReportTransitionView": {
         "properties": {
@@ -6470,10 +5657,7 @@
             "format": "date-time"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "rb6c8mdpd2bgc"
-        }
+        "type": "object"
       },
       "ExpenseReportStatus": {
         "type": "string",
@@ -6485,10 +5669,7 @@
           "refused",
           "archived"
         ],
-        "example": "draft",
-        "x-stoplight": {
-          "id": "2fj9vba8ycc4w"
-        }
+        "example": "draft"
       },
       "SidebarModulesView": {
         "properties": {
@@ -6529,10 +5710,7 @@
             "$ref": "#/components/schemas/DsiView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "egl9ntri2uawj"
-        }
+        "type": "object"
       },
       "BirthdayView": {
         "properties": {
@@ -6544,10 +5722,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "17ohx2bso3a4i"
-        }
+        "type": "object"
       },
       "AbsencesView": {
         "properties": {
@@ -6559,10 +5734,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "kp32hm8z8gx1j"
-        }
+        "type": "object"
       },
       "InTheHouseView": {
         "properties": {
@@ -6570,10 +5742,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ko2fxofjto37k"
-        }
+        "type": "object"
       },
       "TasksView": {
         "properties": {
@@ -6585,10 +5754,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7wp9sg6i77rah"
-        }
+        "type": "object"
       },
       "MessagesView": {
         "properties": {
@@ -6600,10 +5766,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "5rx58xvopzpxb"
-        }
+        "type": "object"
       },
       "ClockInOutView": {
         "properties": {
@@ -6617,10 +5780,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "z0ckkut5iywg0"
-        }
+        "type": "object"
       },
       "BookmarksView": {
         "properties": {
@@ -6628,10 +5788,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "677j8mnsoyktc"
-        }
+        "type": "object"
       },
       "ActiveUserMenuView": {
         "properties": {
@@ -6651,10 +5808,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "u5kbeb3rnr3ey"
-        }
+        "type": "object"
       },
       "GenerateAuthorizationEncoding": {
         "type": "string",
@@ -6663,20 +5817,14 @@
           "deeplink",
           "deeplink-QR"
         ],
-        "example": "authorization",
-        "x-stoplight": {
-          "id": "zlf05ca8alc28"
-        }
+        "example": "authorization"
       },
       "ApiTokenProfile": {
         "type": "string",
         "enum": [
           "mobile-timeclock"
         ],
-        "example": "mobile-timeclock",
-        "x-stoplight": {
-          "id": "m2oqrgxkrasq0"
-        }
+        "example": "mobile-timeclock"
       },
       "DeviceClocking": {
         "properties": {
@@ -6705,18 +5853,12 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "btsnl74hpnjhd"
-        }
+        "type": "object"
       },
       "LocalDateTimeInterval": {
         "type": "string",
         "format": "local-date-time-interval",
-        "example": "2019-11-11T12:34:56/2019-12-12T23:59:59",
-        "x-stoplight": {
-          "id": "jv4u5utqxcswz"
-        }
+        "example": "2019-11-11T12:34:56/2019-12-12T23:59:59"
       },
       "TimecheckType": {
         "type": "string",
@@ -6725,10 +5867,7 @@
           "proposal",
           "validation"
         ],
-        "example": "device",
-        "x-stoplight": {
-          "id": "wd6wvyg2earay"
-        }
+        "example": "device"
       },
       "TimecheckDeviceView": {
         "properties": {
@@ -6749,10 +5888,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "e4vy68zsj43i7"
-        }
+        "type": "object"
       },
       "TimecheckTimeView": {
         "properties": {
@@ -6793,10 +5929,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "hwjwhvi363bt0"
-        }
+        "type": "object"
       },
       "TimecheckTagView": {
         "properties": {
@@ -6831,10 +5964,7 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "79783tq2ls54f"
-        }
+        "type": "object"
       },
       "WorkTimeView": {
         "properties": {
@@ -6854,10 +5984,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "co5xaskcv3lm0"
-        }
+        "type": "object"
       },
       "DisplayRangesView": {
         "properties": {
@@ -6868,10 +5995,7 @@
             "$ref": "#/components/schemas/LocalTimeInterval"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "clqt5uz2e8lma"
-        }
+        "type": "object"
       },
       "ScheduleView": {
         "properties": {
@@ -6908,10 +6032,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "oxjxjxv7xhjxl"
-        }
+        "type": "object"
       },
       "AbsenceView": {
         "properties": {
@@ -6936,10 +6057,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "9brivoxyoi2fy"
-        }
+        "type": "object"
       },
       "EnforcementMode": {
         "type": "string",
@@ -6948,10 +6066,7 @@
           "optional",
           "disabled"
         ],
-        "example": "mandatory",
-        "x-stoplight": {
-          "id": "u54q8c3122euh"
-        }
+        "example": "mandatory"
       },
       "TaggingMode": {
         "type": "string",
@@ -6961,10 +6076,7 @@
           "skip",
           "disabled"
         ],
-        "example": "mandatory",
-        "x-stoplight": {
-          "id": "fd3209l9srt2c"
-        }
+        "example": "mandatory"
       },
       "NextAction": {
         "type": "string",
@@ -6972,10 +6084,7 @@
           "in",
           "out"
         ],
-        "example": "in",
-        "x-stoplight": {
-          "id": "9gma0dvnt4fw2"
-        }
+        "example": "in"
       },
       "AccessView": {
         "properties": {
@@ -6989,10 +6098,7 @@
             }
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "e32sdc173si64"
-        }
+        "type": "object"
       },
       "Balance": {
         "type": "string",
@@ -7000,10 +6106,7 @@
           "work",
           "holiday"
         ],
-        "example": "work",
-        "x-stoplight": {
-          "id": "4rytmtqjm5two"
-        }
+        "example": "work"
       },
       "Operation": {
         "type": "string",
@@ -7011,10 +6114,7 @@
           "+",
           "-"
         ],
-        "example": "+",
-        "x-stoplight": {
-          "id": "za6x3p72rjpnr"
-        }
+        "example": "+"
       },
       "CounterApiFunctionParameterView": {
         "properties": {
@@ -7032,10 +6132,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "glxmh09q830in"
-        }
+        "type": "object"
       },
       "CounterValueRow": {
         "properties": {
@@ -7062,18 +6159,12 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "bf7ys42z5xsjv"
-        }
+        "type": "object"
       },
       "YearWeek": {
         "type": "string",
         "format": "year-week",
-        "example": "2019-W23",
-        "x-stoplight": {
-          "id": "1ft9snnd9x33u"
-        }
+        "example": "2019-W23"
       },
       "PictureShape": {
         "type": "string",
@@ -7082,10 +6173,7 @@
           "rounded-square",
           "square"
         ],
-        "example": "round",
-        "x-stoplight": {
-          "id": "u9cjcljsp2quh"
-        }
+        "example": "round"
       },
       "WhiteboardView": {
         "properties": {
@@ -7096,10 +6184,7 @@
             "$ref": "#/components/schemas/WhiteboardPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "9ku3bavvptafp"
-        }
+        "type": "object"
       },
       "DirectoryView": {
         "properties": {
@@ -7110,10 +6195,7 @@
             "$ref": "#/components/schemas/DirectoryPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ympimh0b8vu5o"
-        }
+        "type": "object"
       },
       "PlanningView": {
         "properties": {
@@ -7124,10 +6206,7 @@
             "$ref": "#/components/schemas/PlanningPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "cej6vzqtcfdv4"
-        }
+        "type": "object"
       },
       "TimeclockView": {
         "properties": {
@@ -7138,10 +6217,7 @@
             "$ref": "#/components/schemas/TimeclockPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jwe10vciaq2rl"
-        }
+        "type": "object"
       },
       "ActivityView2": {
         "properties": {
@@ -7152,10 +6228,7 @@
             "$ref": "#/components/schemas/ActivityPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "tvt0zfy6qr8pq"
-        }
+        "type": "object"
       },
       "CalendarView": {
         "properties": {
@@ -7166,10 +6239,7 @@
             "$ref": "#/components/schemas/CalendarPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "7tw97milkeuwj"
-        }
+        "type": "object"
       },
       "QualityView": {
         "properties": {
@@ -7180,10 +6250,7 @@
             "$ref": "#/components/schemas/QualityPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "gmlmbvl4rfmjx"
-        }
+        "type": "object"
       },
       "DocumentView": {
         "properties": {
@@ -7194,10 +6261,7 @@
             "$ref": "#/components/schemas/DocumentPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "whkcsqryb1imv"
-        }
+        "type": "object"
       },
       "CommunicationView": {
         "properties": {
@@ -7208,10 +6272,7 @@
             "$ref": "#/components/schemas/CommunicationPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "231rm27flju83"
-        }
+        "type": "object"
       },
       "ExpensesView": {
         "properties": {
@@ -7225,10 +6286,7 @@
             "type": "integer"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "y3r7mhdofet7k"
-        }
+        "type": "object"
       },
       "ClaimView": {
         "properties": {
@@ -7239,10 +6297,7 @@
             "$ref": "#/components/schemas/ClaimPermissionsView"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "61uwg5nr8j9fs"
-        }
+        "type": "object"
       },
       "DsiView": {
         "properties": {
@@ -7253,10 +6308,7 @@
             "type": "string"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "pg4xp2c54n3k4"
-        }
+        "type": "object"
       },
       "BeaconStatus": {
         "properties": {
@@ -7270,10 +6322,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "xw04tlsx2epgl"
-        }
+        "type": "object"
       },
       "Geolocation": {
         "properties": {
@@ -7290,10 +6339,7 @@
             "format": "float"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "fvw131cg653k4"
-        }
+        "type": "object"
       },
       "DeviceClockView": {
         "properties": {
@@ -7337,24 +6383,15 @@
             ]
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "dvux1sfy3r2os"
-        }
+        "type": "object"
       },
       "LocalTimeInterval": {
         "type": "string",
         "format": "local-time-interval",
-        "example": "12:34:56/PT2H",
-        "x-stoplight": {
-          "id": "puwbjp5ct7e10"
-        }
+        "example": "12:34:56/PT2H"
       },
       "Percentage": {
-        "type": "object",
-        "x-stoplight": {
-          "id": "ch76rbzyj5koi"
-        }
+        "type": "object"
       },
       "CounterDailyValue": {
         "properties": {
@@ -7371,10 +6408,7 @@
             "nullable": true
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "nj4ab01g3j53r"
-        }
+        "type": "object"
       },
       "ModuleState": {
         "type": "string",
@@ -7383,10 +6417,7 @@
           "hidden",
           "teaser"
         ],
-        "example": "visible",
-        "x-stoplight": {
-          "id": "bocxtxg31ogej"
-        }
+        "example": "visible"
       },
       "WhiteboardPermissionsView": {
         "properties": {
@@ -7394,10 +6425,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4b415pwtinki4"
-        }
+        "type": "object"
       },
       "DirectoryPermissionsView": {
         "properties": {
@@ -7431,10 +6459,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "o3phvzidcqizs"
-        }
+        "type": "object"
       },
       "PlanningPermissionsView": {
         "properties": {
@@ -7457,10 +6482,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "5w6akjca9x6pm"
-        }
+        "type": "object"
       },
       "TimeclockPermissionsView": {
         "properties": {
@@ -7480,10 +6502,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ffz7tmfy2ixcy"
-        }
+        "type": "object"
       },
       "ActivityPermissionsView": {
         "properties": {
@@ -7509,10 +6528,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "4765uvzj43c4v"
-        }
+        "type": "object"
       },
       "CalendarPermissionsView": {
         "properties": {
@@ -7529,10 +6545,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "vx03yp00t791p"
-        }
+        "type": "object"
       },
       "QualityPermissionsView": {
         "properties": {
@@ -7549,10 +6562,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "8vfr0gty6bw5d"
-        }
+        "type": "object"
       },
       "DocumentPermissionsView": {
         "properties": {
@@ -7581,10 +6591,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "zwlcag0ikwstv"
-        }
+        "type": "object"
       },
       "CommunicationPermissionsView": {
         "properties": {
@@ -7601,10 +6608,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "jk4at77gz86ov"
-        }
+        "type": "object"
       },
       "ExpensesPermissionsView": {
         "properties": {
@@ -7621,10 +6625,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "utyv40a7tryrk"
-        }
+        "type": "object"
       },
       "ClaimPermissionsView": {
         "properties": {
@@ -7641,10 +6642,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "71xepe746uvm1"
-        }
+        "type": "object"
       },
       "DirectoryIndicatorPermissionsView": {
         "properties": {
@@ -7661,10 +6659,7 @@
             "type": "boolean"
           }
         },
-        "type": "object",
-        "x-stoplight": {
-          "id": "ir7s4h6epjing"
-        }
+        "type": "object"
       }
     },
     "requestBodies": {
