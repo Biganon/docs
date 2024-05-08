@@ -5,7 +5,7 @@
   },
   "info": {
     "title": "tipee",
-    "version": "0.1"
+    "version": "v1"
   },
   "paths": {
     "/api/activity/projects.create": {
