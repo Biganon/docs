@@ -28,7 +28,7 @@
 	    "pages": [
 	      "activity/create-a-project",
 	      "activity/delete-a-project",
-	      "activity/edit-a-project",
+	      "activity/edit-a-project"
 	    ]
 	  },
 	  {
@@ -38,7 +38,7 @@
 	      "balances/creates-a-new-counter",
 	      "balances/deletes-a-counter",
 	      "balances/lists-counters",
-	      "balances/lists-variables",
+	      "balances/lists-variables"
 	    ]
 	  },
 	  {
@@ -48,7 +48,7 @@
 	      "directory/lists-roles",
 	      "directory/lists-teams",
 	      "directory/shows-picture-for-a-resource",
-	      "directory/lists-tags",
+	      "directory/lists-tags"
 	    ]
 	  },
 	  {
@@ -58,14 +58,14 @@
 	      "expenses/updates-an-expense",
 	      "expenses/deletes-an-expense",
 	      "expenses/lists-expenses",
-	      "expenses/shows-an-expense",
+	      "expenses/shows-an-expense"
 	    ]
 	  },
 	  {
 	    "group": "Instance",
 	    "pages": [
 	      "instance/shows-the-instance-logo",
-	      "instance/shows-the-instance-status",
+	      "instance/shows-the-instance-status"
 	    ]
 	  },
 	  {
