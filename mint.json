@@ -1,6 +1,6 @@
 {
   "name": "tipee",
-  "openapi": ["/openapi.json"],
+  "openapi": ["/openapi.json", "/openapi2.json"],
   "versions": ["v2", "v1"],
   "logo": {
     "light": "/logo/light.svg",
