@@ -101,6 +101,85 @@
 	      "v1/timeclock/enumerates-teams-which-current-user-can-validate",
 	      "v1/timeclock/enumerates-resources-which-current-user-can-validate"
 	    ]
+	  },
+	  {
+	    "group": "Activity",
+	    "version": "v2",
+	    "pages": [
+	      "v2/activity/create-a-project",
+	      "v2/activity/delete-a-project",
+	      "v2/activity/edit-a-project"
+	    ]
+	  },
+	  {
+	    "group": "Balances",
+	    "version": "v2",
+	    "pages": [
+	      "v2/balances/lists-counter-values",
+	      "v2/balances/creates-a-new-counter",
+	      "v2/balances/deletes-a-counter",
+	      "v2/balances/lists-counters",
+	      "v2/balances/lists-variables"
+	    ]
+	  },
+	  {
+	    "group": "Directory",
+	    "version": "v2",
+	    "pages": [
+	      "v2/directory/deletes-resources",
+	      "v2/directory/lists-roles",
+	      "v2/directory/lists-teams",
+	      "v2/directory/shows-picture-for-a-resource",
+	      "v2/directory/lists-tags"
+	    ]
+	  },
+	  {
+	    "group": "Expenses",
+	    "version": "v2",
+	    "pages": [
+	      "v2/expenses/creates-an-expense",
+	      "v2/expenses/updates-an-expense",
+	      "v2/expenses/deletes-an-expense",
+	      "v2/expenses/lists-expenses",
+	      "v2/expenses/shows-an-expense"
+	    ]
+	  },
+	  {
+	    "group": "Instance",
+	    "version": "v2",
+	    "pages": [
+	      "v2/instance/shows-the-instance-logo",
+	      "v2/instance/shows-the-instance-status"
+	    ]
+	  },
+	  {
+	    "group": "Schedule",
+	    "version": "v2",
+	    "pages": [
+	      "v2/schedule/shows-balances-configuration-for-schedule"
+	    ]
+	  },
+	  {
+	    "group": "Security",
+	    "version": "v2",
+	    "pages": [
+	      "v2/security/revoke-a-token",
+	      "v2/security/list-all-user-tokens",
+	      "v2/security/token-api-permissions",
+	      "v2/security/changes-resources-username",
+	      "v2/security/sends-a-login-link-by-email",
+	      "v2/security/deletes-a-users-2fa-method",
+	      "v2/security/lists-users-2fa-methods"
+	    ]
+	  },
+	  {
+	    "group": "Timeclock",
+	    "version": "v2",
+	    "pages": [
+	      "v2/timeclock/tags-a-timecheck",
+	      "v2/timeclock/enumerates-teams-which-current-user-can-validate",
+	      "v2/timeclock/enumerates-resources-which-current-user-can-validate"
+	    ]
 	  }
 	],
   "footerSocials": {
