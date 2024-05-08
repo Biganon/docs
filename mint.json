@@ -1,5 +1,5 @@
 {
-  "name": "Mintlify",
+  "name": "tipee",
   "openapi": ["/openapi.json"],
   "versions": ["v2", "v1"],
   "logo": {
@@ -15,27 +15,13 @@
   "topbarLinks": [
     {
       "name": "Contact Us",
-      "url": "mailto:support@mintlify.com"
+      "url": "mailto:support@tipee.ch"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://1tc7vihvbit.typeform.com/to/pZJ31XZB"
+    "url": "https://www.tipee.ch"
   },
-  "anchors": [
-    {
-      "name": "API Components",
-      "icon": "rectangle-terminal",
-      "color": "#f59f0b",
-      "url": "api-components"
-    },
-    {
-      "name": "Community",
-      "icon": "comments",
-      "color": "#2564eb",
-      "url": "https://discord.gg/MPNgtSZkgK"
-    }
-  ],
   "navigation": [
 	  {
 	    "group": "Activity",
@@ -43,98 +29,26 @@
 	      "activity/create-a-project",
 	      "activity/delete-a-project",
 	      "activity/edit-a-project",
-	      "activity/assign-a-resource-to-a-project",
-	      "activity/assign-a-team-to-a-project",
-	      "activity/update-team-rights-on-a-project",
-	      "activity/remove-a-member-from-a-project",
-	      "activity/change-project-status",
-	      "activity/grant-a-resource-access-to-a-project",
-	      "activity/copy-a-project",
-	      "activity/list-projects",
-	      "activity/get-project-permissions-for-a-resourceteam",
-	      "activity/get-apiactivityprojectsenumerate-consultable-persons",
-	      "activity/get-apiactivityprojectslist-consultable",
-	      "activity/list-all-resources-present-in-and-grouped-by-projects",
-	      "activity/delete-a-task",
-	      "activity/post-apiactivitytaskscreate",
-	      "activity/post-apiactivitytasksedit",
-	      "activity/move-a-task-inside-a-project",
-	      "activity/get-apiactivitytaskslist",
-	      "activity/post-apiactivityactivitiescreate",
-	      "activity/post-apiactivityactivitiesupdate",
-	      "activity/post-apiactivityactivitiesdelete",
-	      "activity/get-apiactivityactivitieslist",
-	      "activity/post-apiactivityday-taskssubmit",
-	      "activity/post-apiactivityday-taskssubmit-for-contributor",
-	      "activity/post-apiactivityday-taskscancel-submission",
-	      "activity/post-apiactivityday-taskssubmit-correction",
-	      "activity/post-apiactivityday-tasksvalidate",
-	      "activity/post-apiactivityday-taskscancel-validation",
-	      "activity/post-apiactivityday-tasksreject",
-	      "activity/post-apiactivityday-taskscancel-rejection",
-	      "activity/get-apiactivityday-taskslist",
-	      "activity/get-apiactivityworkflow-definitionsnow"
 	    ]
 	  },
 	  {
 	    "group": "Balances",
 	    "pages": [
-	      "balances/shows-balance-gauges-for-a-resource",
-	      "balances/shows-balances-of-various-types-for-various-periods",
-	      "balances/creates-a-new-counter-accumulator",
-	      "balances/updates-a-counter-accumulator",
-	      "balances/deletes-a-counter-accumulator",
-	      "balances/defines-accumulators-value-for-given-date",
 	      "balances/lists-counter-values",
 	      "balances/creates-a-new-counter",
-	      "balances/changes-a-counter-configurations",
-	      "balances/reorders-a-counter-at-a-given-position",
 	      "balances/deletes-a-counter",
-	      "balances/inspects-a-counter-expression",
-	      "balances/shows-the-api-available-to-a-counter-expression",
-	      "balances/[nyi]-shows-the-monarch-syntax-for-a-counter-expression",
-	      "balances/validates-a-counter-code-expression",
 	      "balances/lists-counters",
-	      "balances/lists-counter-values-1",
-	      "balances/inspects-values-of-a-counter",
-	      "balances/creates-a-new-counter-variable",
-	      "balances/deletes-a-counter-variable",
-	      "balances/updates-a-counter-variable",
 	      "balances/lists-variables",
-	      "balances/defines-variables-value-for-given-date-range",
-	      "balances/lists-values-of-given-variables-having-one-of-the-given-scopes",
-	      "balances/updates-the-balance-mode-for-a-resource",
-	      "balances/updates-the-timecheck-mode-for-a-resource",
-	      "balances/updates-the-holiday-display-mode-for-a-resource",
-	      "balances/updates-the-holiday-daily-display-mode-for-a-resource",
-	      "balances/shows-balances-modes-for-a-resource",
-	      "balances/shows-extra-hours-report",
-	      "balances/shows-permission-report",
-	      "balances/post-apibalanceswork-regimescreate",
-	      "balances/post-apibalanceswork-regimesupdate",
-	      "balances/post-apibalanceswork-regimesdelete",
-	      "balances/post-apibalanceswork-regimesset-default",
-	      "balances/get-apibalanceswork-regimeslist"
 	    ]
 	  },
 	  {
 	    "group": "Directory",
 	    "pages": [
-	      "directory/grant-roles-to-resources",
-	      "directory/revokes-roles-from-resources",
 	      "directory/deletes-resources",
-	      "directory/post-apidirectoryuser-preferencesupdate",
 	      "directory/lists-roles",
 	      "directory/lists-teams",
-	      "directory/lists-resources-with-theirs-roles-by-teams",
-	      "directory/enumerates-resources-ids",
-	      "directory/enumerates-resources-with-their-teams",
-	      "directory/shows-summaries-for-resources",
-	      "directory/shows-profile-for-a-resource",
-	      "directory/shows-permissions-for-a-resource",
 	      "directory/shows-picture-for-a-resource",
 	      "directory/lists-tags",
-	      "directory/get-apidirectoryuser-preferencesshow"
 	    ]
 	  },
 	  {
@@ -143,29 +57,8 @@
 	      "expenses/creates-an-expense",
 	      "expenses/updates-an-expense",
 	      "expenses/deletes-an-expense",
-	      "expenses/creates-an-expense-attachment",
-	      "expenses/deletes-an-expense-attachment",
 	      "expenses/lists-expenses",
 	      "expenses/shows-an-expense",
-	      "expenses/shows-an-expense-attachment",
-	      "expenses/creates-an-expense-report",
-	      "expenses/sends-an-expense-report-to-a-validator",
-	      "expenses/approves-an-expense-report",
-	      "expenses/forwards-an-expense-report-to-another-validator",
-	      "expenses/refuses-an-expense-report",
-	      "expenses/changes-an-expense-reports-label",
-	      "expenses/deletes-an-expense-report",
-	      "expenses/marks-an-expense-report-as-exported",
-	      "expenses/shows-an-expense-report",
-	      "expenses/lists-expense-reports",
-	      "expenses/exports-expense-reports",
-	      "expenses/lists-expense-reports-validators",
-	      "expenses/shows-the-number-of-expense-reports-awaiting-validation",
-	      "expenses/enumerates-expense-reports-ids-for-export",
-	      "expenses/creates-an-expense-type",
-	      "expenses/post-apiexpensesexpensestypesedit",
-	      "expenses/lists-expense-types",
-	      "expenses/enumerates-recent-tags"
 	    ]
 	  },
 	  {
@@ -173,11 +66,6 @@
 	    "pages": [
 	      "instance/shows-the-instance-logo",
 	      "instance/shows-the-instance-status",
-	      "instance/fetches-the-bootstrap-payload-for-the-frontend",
-	      "instance/shows-the-instance-feature-flags",
-	      "instance/shows-sidebars-elements-status-with-permissions",
-	      "instance/shows-topbars-element-status-with-permissions-and-an-eventual-count-of-the-resources-if-relevant",
-	      "instance/shows-metrics-for-instance-and-user"
 	    ]
 	  },
 	  {
@@ -190,54 +78,25 @@
 	    "group": "Security",
 	    "pages": [
 	      "security/revoke-a-token",
-	      "security/retrieve-a-temporary-authorization-element-that-allow-to-create-a-token",
-	      "security/create-a-new-user-token-that-allow-to-interact-with-tipee-on-his-behalf",
 	      "security/list-all-user-tokens",
 	      "security/token-api-permissions",
 	      "security/changes-resources-username",
-	      "security/sets-resources-must-change-password-field",
-	      "security/shows-credentials-summaries-for-resources",
 	      "security/sends-a-login-link-by-email",
 	      "security/deletes-a-users-2fa-method",
 	      "security/lists-users-2fa-methods"
 	    ]
 	  },
 	  {
-	    "group": "Misc",
-	    "pages": [
-	      "misc/returns-all-symfonys-flash-messages-success-error-etc-and-clears-them",
-	      "misc/generates-snowflakes"
-	    ]
-	  },
-	  {
 	    "group": "Timeclock",
 	    "pages": [
 	      "timeclock/tags-a-timecheck",
-	      "timeclock/post-apitimeclocktimecheckspropose",
-	      "timeclock/post-apitimeclocktimechecksupdate-proposal",
-	      "timeclock/post-apitimeclocktimechecksdelete",
-	      "timeclock/post-apitimeclocktimecheckschange-timerange",
-	      "timeclock/post-apitimeclocktimechecksclock",
-	      "timeclock/post-apitimeclockbeaconsregister",
-	      "timeclock/post-apitimeclockbeaconsupdate",
-	      "timeclock/post-apitimeclockbeaconsdelete",
-	      "timeclock/runs-timecheck-matching-for-a-resource-and-a-time-point",
-	      "timeclock/get-apitimeclocktimecheckslist",
-	      "timeclock/get-apitimeclocktimechecksshow",
-	      "timeclock/lists-suggested-tags-for-timecheck",
-	      "timeclock/get-apitimeclockworkdaysshow",
-	      "timeclock/get-apitimeclockbeaconslist",
-	      "timeclock/get-apitimeclockresourcesshow-status",
-	      "timeclock/get-apitimeclockmobile-timeclockcheck-version",
 	      "timeclock/enumerates-teams-which-current-user-can-validate",
 	      "timeclock/enumerates-resources-which-current-user-can-validate"
 	    ]
 	  }
 	],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "discord": "https://discord.gg/MPNgtSZkgK",
-    "x": "https://x.com/mintlify"
+    "github": "https://github.com/tipee-sa",
   },
   "integrations": {
     "intercom": "abcdefz",
