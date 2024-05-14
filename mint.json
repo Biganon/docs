@@ -45,7 +45,10 @@
     }
 	],
   "navigation": [
-		"home",
+		{
+        "group": "Getting Started",
+        "pages": ["home"]
+    },
 	  {
 	    "group": "Activity",
 	    "version": "v1",
