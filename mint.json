@@ -45,13 +45,12 @@
     }
 	],
   "navigation": [
-		"pages": [
-		  "home"
-		],
+		"home",
 	  {
 	    "group": "Activity",
 	    "version": "v1",
 	    "pages": [
+				"home",
 	      "v1/activity/create-a-project",
 	      "v1/activity/delete-a-project",
 	      "v1/activity/edit-a-project"
