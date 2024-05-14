@@ -31,10 +31,12 @@
     "name": "Bien démarrer",
     "url": "https://www.tipee.ch"
   },
+	"search": {
+		"prompt": "Rechercher"
+	},
   "navigation": [
 	  {
 	    "group": "Activity",
-			"icon": "pickaxe",
 	    "version": "v1",
 	    "pages": [
 	      "v1/activity/create-a-project",
