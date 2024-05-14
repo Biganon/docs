@@ -46,7 +46,7 @@
 	],
   "navigation": [
 		{
-        "group": "",
+        "group": "-",
         "pages": ["home"]
     },
 	  {
