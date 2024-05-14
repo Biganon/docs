@@ -1,6 +1,11 @@
 {
   "name": "tipee",
   "openapi": ["/v1.json", "/v2.json"],
+  "api": {
+    "playground": {
+      "mode": "hide"
+    }
+  },
   "versions": ["v2", "v1"],
   "logo": {
     "light": "/logo/light.svg",
