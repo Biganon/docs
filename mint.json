@@ -8,18 +8,18 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#0075BE",
     "light": "#4ADE80",
     "dark": "#166534"
   },
   "topbarLinks": [
     {
-      "name": "Contact Us",
+      "name": "Contactez-nous",
       "url": "mailto:support@tipee.ch"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started",
+    "name": "Bien démarrer",
     "url": "https://www.tipee.ch"
   },
   "navigation": [
