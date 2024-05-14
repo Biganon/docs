@@ -3,7 +3,7 @@
   "openapi": ["/v1.json", "/v2.json"],
   "api": {
     "playground": {
-      "mode": "hide"
+      "mode": "simple"
     }
   },
   "versions": ["v2", "v1"],
