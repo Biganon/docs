@@ -1,5 +1,10 @@
 {
   "name": "tipee",
+  "analytics": {
+    "gtm": {
+        "tagId": "GTM-MBPDK23C"
+    }
+  },
   "openapi": ["/v1.json", "/v2.json"],
   "versions": ["v2", "v1"],
   "logo": {
