@@ -21,6 +21,9 @@
 	"dark": "#141828"
     }
   },
+	"search": {
+		"prompt": "Rechercher"
+	},
   "topbarLinks": [
     {
       "name": "Contactez-nous",
@@ -31,9 +34,16 @@
     "name": "Bien démarrer",
     "url": "https://www.tipee.ch"
   },
-	"search": {
-		"prompt": "Rechercher"
-	},
+	"tabs": [
+    {
+        "name": "Premiers pas",
+        "url": "api-references"
+    },
+    {
+        "name": "Référence API",
+        "url": "content"
+    }
+	],
   "navigation": [
 	  {
 	    "group": "Activity",
